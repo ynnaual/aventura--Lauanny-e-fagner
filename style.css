@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&display=swap');
+
+body{
+    background-color: rgb(7, 126, 177);
+    color:black;
+    display: flesx;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+    font-family: Comic Relief
+;
+
+}
+
+button {
+    background-color: #d51bdb;
+    color: white;
+    font-family: Comic Relief
+}
